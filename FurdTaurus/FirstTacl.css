@@ -1,0 +1,39 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(205, 202, 200);
+    margin-right: 50px; 
+    color: rgb(35, 44, 112);;
+    
+}
+img:hover{
+    transform: scale(1.05);
+}
+img{
+    float: left ;
+    margin-left: 110px;
+    margin-top: 40px;
+    padding: 3px 3px;
+    width: 300px;
+    height: 200px;
+    border-radius: 12px;
+    border: 2px solid rgb(135, 138, 165);
+    box-shadow: 0 10px 9px rgb(135, 138, 165);
+
+}
+
+h1{
+    font-size: 35px;
+    padding-bottom: 25px;
+}
+div img{
+    float: left ;
+    margin-left: 110px;
+    margin-top: 20px;
+    padding: 3px 3px;
+    width: 710px;
+    height: 320px;
+    border-radius: 12px;
+    border: 2px solid rgb(135, 138, 165);
+    box-shadow: 0 10px 9px rgb(135, 138, 165);
+
+}
